@@ -1,8 +1,8 @@
-# 🐍 A Level Playing Field Script 🐍
+# 🐍 A Level Playing Field SH Script🐍
 
 ## Overview
 
-🐍 This is an SH script that downloads all of Elder Plinus's repositories to ensure a level playing field! 🐍 The script is designed to help you clone all of his public repos with ease.
+🐍 This is an SH script that downloads all of Elder Plinus's (https://github.com/elder-plinius/). 🐍 The script is designed to help you clone all of his public repos with ease.
 
 ## Requirements
 
@@ -11,3 +11,4 @@
 - **For Ubuntu/Debian**:
   ```bash
   sudo apt install curl
+
